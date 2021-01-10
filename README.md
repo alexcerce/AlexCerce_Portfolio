@@ -5,3 +5,5 @@ Overview of past and ongoing data projects
 * Developed a model to predict credit card fraud on a large imbalanced dataset.
 * Experimented with multiple different models and data sampling techniques.
 * Built an XGBoost model with SMOTE oversampling to obtain 90% recall and 88% precision.
+
+## [Investigating the Rise of Airbnb in Berlin](https://github.com/alexcerce/Berlin_Airbnb)
