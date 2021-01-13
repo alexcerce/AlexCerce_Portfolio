@@ -15,6 +15,6 @@ Overview of past and ongoing data projects
   With this data, I have built visualizations and prediction models to better understand key factors
   in the rise of Airbnb.
   
-  This project includes collecting data from multiple tables, doing extensive cleaning, aggregating the multiple tables
-  into a couple of common tables, and building a lot of visualizations to better understand the situation.
+  This project includes collecting data from multiple tables, doing extensive cleaning, merging the tables
+  into a couple of common tables, and building several visualizations to better understand the situation.
   
