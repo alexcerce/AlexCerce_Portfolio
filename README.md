@@ -7,8 +7,8 @@ Overview of past and ongoing data projects
 * Built an XGBoost model with SMOTE oversampling to obtain 90% recall and 88% precision.
   
   <p float="left">
-  <img src="https://github.com/alexcerce/AlexCerce_Portfolio/blob/main/images/PR.PNG" width="500" />
-  <img src="https://github.com/alexcerce/AlexCerce_Portfolio/blob/main/images/XGBoost_ConfusionMatrix.PNG" width="400" />
+  <img src="https://github.com/alexcerce/AlexCerce_Portfolio/blob/main/images/PR.PNG" width="400" />
+  <img src="https://github.com/alexcerce/AlexCerce_Portfolio/blob/main/images/XGBoost_ConfusionMatrix.PNG" width="300" />
 </p>
 
 ## [Investigating the Rise of Airbnb in Berlin](https://github.com/alexcerce/Berlin_Airbnb)
