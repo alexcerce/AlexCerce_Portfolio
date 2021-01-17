@@ -9,7 +9,7 @@ Overview of past and ongoing data projects
   <p float="left">
   <img src="images/PR.PNG" width="400" />
   <img src="images/XGBoost_ConfusionMatrix.PNG" width="400" />
-</p>
+  </p>
 
 [](https://github.com/alexcerce/AlexCerce_Portfolio/blob/main/images/XGBoost_ConfusionMatrix.PNG)
 
