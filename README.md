@@ -11,8 +11,6 @@ Overview of past and ongoing data projects
   <img src="images/XGBoost_ConfusionMatrix.PNG" width="400" />
   </p>
 
-[](https://github.com/alexcerce/AlexCerce_Portfolio/blob/main/images/XGBoost_ConfusionMatrix.PNG)
-
 ## [Investigating the Rise of Airbnb in Berlin](https://github.com/alexcerce/Berlin_Airbnb)
   In the summer of 2018 I spent the summer studying in Berlin and learning about past and current issues.
   One of the largest modern issues in Berlin, is the rise of Airbnb. Many expats moving to Berlin struggle
