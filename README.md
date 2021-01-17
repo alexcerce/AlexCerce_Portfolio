@@ -7,9 +7,11 @@ Overview of past and ongoing data projects
 * Built an XGBoost model with SMOTE oversampling to obtain 90% recall and 88% precision.
   
   <p float="left">
-  <img src="/images/PR.PNG" width="400" />
-  <img src="/images/XGBoost_ConfusionMatrix.PNG" width="300" />
+  <img src="https://github.com/alexcerce/AlexCerce_Portfolio/blob/main/images/PR.PNG" width="400" />
+  <img src="https://github.com/alexcerce/AlexCerce_Portfolio/blob/main/images/XGBoost_ConfusionMatrix.PNG" width="300" />
 </p>
+
+[](https://github.com/alexcerce/AlexCerce_Portfolio/blob/main/images/XGBoost_ConfusionMatrix.PNG)
 
 ## [Investigating the Rise of Airbnb in Berlin](https://github.com/alexcerce/Berlin_Airbnb)
   In the summer of 2018 I spent the summer studying in Berlin and learning about past and current issues.
@@ -27,6 +29,6 @@ Overview of past and ongoing data projects
   * Developing a basic pricing model to give new Airbnb users the optimal listing price for their apartment
   
   
-  <img src="/images/Airbnbcountplot.PNG" width="800" />
-  <img src="/images/AirbnbFolium_Capture1.PNG" width="800" />
+  <img src="https://github.com/alexcerce/AlexCerce_Portfolio/blob/main/images/Airbnbcountplot.PNG" width="800" />
+  <img src="https://github.com/alexcerce/AlexCerce_Portfolio/blob/main/images/AirbnbFolium_Capture1.PNG" width="800" />
   
