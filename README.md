@@ -27,4 +27,4 @@ Overview of past and ongoing data projects
   
   ![](https://github.com/alexcerce/AlexCerce_Portfolio/blob/main/images/Airbnbcountplot.PNG)
   
-  ![](https://github.com/alexcerce/AlexCerce_Portfolio/blob/main/images/AirbnbFolium_Capture2.PNG)
+  ![](https://github.com/alexcerce/AlexCerce_Portfolio/blob/main/images/AirbnbFolium_Capture1.PNG)
