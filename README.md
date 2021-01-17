@@ -26,6 +26,7 @@ Overview of past and ongoing data projects
   * Building visualizations to better understand the situation
   * Developing a basic pricing model to give new Airbnb users the optimal listing price for their apartment
   
-  ![](/images/Airbnbcountplot.PNG)
   
-  ![](https://github.com/alexcerce/AlexCerce_Portfolio/blob/main/images/AirbnbFolium_Capture1.PNG)
+  <img src="/images/Airbnbcountplot.PNG" width="800" />
+  <img src="/images/AirbnbFolium_Capture1.PNG" width="800" />
+  
