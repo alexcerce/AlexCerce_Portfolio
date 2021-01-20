@@ -2,6 +2,13 @@
 Overview of past and ongoing data projects
 
 ## [Credit Card Fraud Prediction](https://github.com/alexcerce/CreditCardFraud)
+I've always been interested in anomaly detection models which can help detect the occurance of rare events.
+This project tackles one area where anomaly detection is widely used in order to reduce fraud with the help
+of machine learning. I started this as a continuation of research done by the machine learning group at ULB.
+The goal of this was project was to try many different models, sampling techniques, feature elimination methods,
+and performance metrics in order to build a good model.
+
+This project includes:
 * Developed a model to predict credit card fraud on a large imbalanced dataset.
 * Experimented with multiple different models and data sampling techniques.
 * Built an XGBoost model with SMOTE oversampling to obtain 90% recall and 88% precision.
