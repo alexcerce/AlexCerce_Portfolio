@@ -18,7 +18,7 @@ This project includes:
   <img src="images/XGBoost_ConfusionMatrix.PNG" width="400" />
   </p>
 
-## [Investigating the Rise of Airbnb in Berlin](https://github.com/alexcerce/Berlin_Airbnb)
+## [Investigating the Rise of Airbnb in Berlin \[In Progress\]](https://github.com/alexcerce/Berlin_Airbnb)
   In the summer of 2018 I spent the summer studying in Berlin and learning about past and current issues.
   One of the largest modern issues in Berlin, is the rise of Airbnb. Many expats moving to Berlin struggle
   to find apartments, a large part of this issue has been due to the rise of Airbnb. Many apartment owners have realized
@@ -37,3 +37,8 @@ This project includes:
   <img src="images/Airbnbcountplot.PNG" width="800" />
   <img src="images/AirbnbFolium_Capture1.PNG" width="800" />
   
+  ## [Automating the Data Analysis Process \[In Progress\]](https://github.com/alexcerce/Berlin_Airbnb)
+  
+  * Automating common tasks for any project, which includes loading data, importing required libraries, 
+    basic data cleaning operations, and basic data analysis tasks.
+  * Utilizing functions and classes to specify how each process will perform
