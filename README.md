@@ -40,7 +40,7 @@ This project includes:
   <img src="images/Airbnbcountplot.PNG" width="800" />
   <img src="images/AirbnbFolium_Capture1.PNG" width="800" />
   
-  ## [Automating the Data Analysis Process \[In Progress\]](https://github.com/alexcerce/Berlin_Airbnb)
+  ## [Automating the Data Analysis Process](https://github.com/alexcerce/Berlin_Airbnb)
   
   * Automating common tasks for any project, which includes loading data, importing required libraries, 
     basic data cleaning operations, and basic data analysis tasks.
