@@ -1,8 +1,6 @@
 # AlexCerce_Portfolio
 This page provides an overview of past and ongoing personal data projects. Each project was started due to a personal
-interest in the topic or to build an interesting tool which can help boost my future projects. My favroite part of the
-data process is being able to build a result which will have a noticeable impact. In the following projects, I attempt
-to answer questions which can be seen through collected and analyzed data.
+interest in the topic or to build an interesting tool which can help boost my future projects.
 
 ## [Credit Card Fraud Prediction](https://github.com/alexcerce/CreditCardFraud)
 I've always been interested in anomaly detection models which can help detect the occurance of rare events.
